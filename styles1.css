@@ -1,0 +1,10 @@
+body{
+  background-image:url(ok.jpg);
+  background-size: cover;
+  background-position: cente
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 35px;
+  }

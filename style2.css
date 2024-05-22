@@ -1,0 +1,8 @@
+body{
+    background-image:url(sunset.jpg)
+  }
+  nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 35px;
+  }
